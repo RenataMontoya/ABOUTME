@@ -14,4 +14,19 @@
 ## What drives me?
 - I have a passion for learning new things and continuously improving my skills.
 
+## My Projects
+Here are some of the repositories showcasing my work:
+
+- [Project 1](https://github.com/RenataMontoya/Modulo_1.git): Create your own activities.
+- [Project 2](https://github.com/RenataMontoya/modulo_2.git): Cinema website.
+- [Project 3](https://github.com/RenataMontoya/modulo_3.git): Create your appointments for a beauty salon.
+- [Project 4](https://github.com/RenataMontoya/modulo_4.git): E-commerce.
+
+## How to Reach Me
+Feel free to reach out to me through the following channels:
+
+- **Email**: [renatasalgadolozoya@gmail.com](mailto:renatasalgadolozoya@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/renata-montoya-7391642a8)
+
+Thank you for visiting my profile!
 Feel free to connect with me and explore my projects!
