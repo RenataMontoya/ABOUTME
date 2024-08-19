@@ -27,7 +27,7 @@ Here are some of the repositories showcasing my work:
 Feel free to reach out to me through the following channels:
 
 - **Email**: [renatasalgadolozoya@gmail.com](mailto:renatasalgadolozoya@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/renata-montoya-7391642a8)
+- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/renata-montoya-7391642a8)
 
 Thank you for visiting my profile!
 Feel free to connect with me and explore my projects!
